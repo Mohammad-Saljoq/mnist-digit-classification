@@ -129,6 +129,6 @@ Possible improvements include:
 
 ## Author
 
-**Joki Khan**
+**Mohammad Saljoq**
 
 Machine Learning & Data Analytics Student
